@@ -57,6 +57,9 @@ By default, Unity provides several platforms that you can choose from through th
 ![](7.png)
 
 **1. Oculus:** Unity supports VR devices from Oculus, such as Oculus Quest and Oculus Rift.
+
 **2. HTC Vive:** Unity also supports VR devices from HTC, such as the HTC Vive and Vive Pro.
+
 **3. ARKit:** Unity supports Apple's ARKit platform, enabling the development of augmented reality apps for iOS devices.
+
 **4. ARCore:** Unity also supports Google's ARCore platform, allowing for the development of augmented reality apps for Android devices.
